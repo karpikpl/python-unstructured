@@ -1,0 +1,4 @@
+Django
+whitenoise
+langchain==0.0.348
+unstructured[docx,pptx,xlsx]==0.11.6
